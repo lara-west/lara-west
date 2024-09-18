@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hey, I'm Lara West
+
+ML Engineer, Python Lover, Dreamer
 
 <!--
 **lara-west/lara-west** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
